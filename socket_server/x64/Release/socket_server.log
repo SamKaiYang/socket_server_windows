@@ -1,0 +1,5 @@
+﻿  socket_server.cpp
+C:\Users\tt006\source\repos\socket_server\socket_server\socket_server.cpp(56,48): error C2440: '正在初始化': 無法由 'const char [18]' 轉換為 'char *'
+C:\Users\tt006\source\repos\socket_server\socket_server\socket_server.cpp(56,27): message : 從字串常值轉換時遺漏 const 限定詞 (請參閱 /Zc:strictStrings)
+C:\Users\tt006\source\repos\socket_server\socket_server\socket_server.cpp(34,28): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\tt006\source\repos\socket_server\socket_server\socket_server.cpp(53,56): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings

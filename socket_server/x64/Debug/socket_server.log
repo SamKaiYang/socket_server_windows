@@ -1,0 +1,6 @@
+﻿  socket_server.cpp
+C:\Users\tt006\source\repos\socket_server_1001_v1\socket_server\socket_server.cpp(122,74): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\tt006\source\repos\socket_server_1001_v1\socket_server\socket_server.cpp(155,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\tt006\source\repos\socket_server_1001_v1\socket_server\socket_server.cpp(165,48): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\tt006\source\repos\socket_server_1001_v1\socket_server\socket_server.cpp(188,51): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  socket_server.vcxproj -> C:\Users\tt006\source\repos\socket_server_1001_v1\x64\Debug\socket_server.exe
